@@ -1,0 +1,21 @@
+{
+  "name": "@i-302/batman",
+  "version": "0.0.0-development",
+  "description": "batman wants justice",
+  "main": "index.js",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^24.1.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
